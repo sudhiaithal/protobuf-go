@@ -1,4 +1,4 @@
-module google.golang.org/protobuf
+module github.com/sudhiaithal/protobuf-go
 
 go 1.20
 
